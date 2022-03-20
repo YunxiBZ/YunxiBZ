@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yunxi
-- 👀 I’m interested in Javascript programming
-- 🌱 I’m currently learning Node.js, React.js, PostgreSQL
+- 👀 I’m interested in Javascript/Typescript programming
+- 🌱 I use and continue to learn React.ts, Redux Toolkit, node.js, PostgreSQL every day
 - 💞️ I’m looking to collaborate on web development
 - 📫 If you have an opportunity, email me: yunxi.bancezhang@gmail.com
 
